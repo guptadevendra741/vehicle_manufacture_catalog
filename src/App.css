@@ -1,0 +1,46 @@
+*{
+  background-color: aliceblue;
+  padding: 10px
+ 
+}
+h1{
+  text-align: center;
+  margin-bottom: 20px;
+}
+input{
+  width: 30%;
+  height: 1rem;
+  border: 2px solid greenyellow;
+  border-radius: 3rem;
+}
+.table{
+  height: max-content;
+  width: 100%;
+}
+th{
+  width: 30%;
+  height: 1.5rem;
+  background-color: brown;
+}
+td{
+  background-color: aquamarine;
+  text-align: center;
+}
+select{
+  width: 30%;
+  height: 3rem;
+  border: 2px solid greenyellow;
+  border-radius: 3rem;
+}
+
+.model-box{
+  background-color: white;
+  width: 100px;
+}
+
+button{
+  background-color: aqua;
+  border: none;
+  border-radius: 20px;
+}
+
